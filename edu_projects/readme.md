@@ -1,6 +1,6 @@
 ## 📌 About This Folder
 
-This folder contains a collection of laboratory works completed during my university studies.  
+This folder contains some of laboratory works completed during my university studies.  
 Each project demonstrates practical application of data analysis techniques, machine learning models, and business intelligence approaches.
 
 **Key skills demonstrated:**
