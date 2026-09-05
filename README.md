@@ -26,7 +26,6 @@
 
 **Владислав Кувшинов**  
 📧 Gendo13@yandex.ru  
-📱 +7 (915) 848-84-99  
 📍 Иваново, Россия  
 
 [GitHub](https://github.com/BranchyDaddy) | [Telegram](https://t.me/Vladislove865)
