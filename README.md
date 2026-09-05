@@ -20,14 +20,3 @@
 | [`ml_course_projects`](./ml_course_projects) | Проекты с онлайн-курса по анализу данных и машинному обучению |
 | [`projects`](./projects) | Пет-проекты — самостоятельные работы для отработки навыков и исследования интересных задач |
 
----
-
-## 📫 Контакты
-
-**Владислав Кувшинов**  
-📧 Gendo13@yandex.ru  
-📍 Иваново, Россия  
-
-[GitHub](https://github.com/BranchyDaddy) | [Telegram](https://t.me/Vladislove865)
-
----
