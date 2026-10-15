@@ -13,4 +13,5 @@
 | 3 | **Базовый курс по анализу данных** | Т-Образование (Т-Банк) | `base_analitics-T_academy.pdf` |
 | 4 | **Машинное Обучение в Python: Большой Курс для Начинающих** | Stepik | `ml-stepik.pdf` |
 | 5 | **Разведочный анализ данных** | Stepik | `eda-stepik.pdf` |
+| 6 | **Yet another Conference on Education 2026** | Yandex | `yace_2026-yandex.pdf` |
 
